@@ -2,73 +2,73 @@
     {
       "id": 1,
       "name": "Jerry",
-      "image": "/images/jerry.jpg",
+      "image": "./images/jerry.jpg",
       "clicked": false
     },
     {
       "id": 2,
       "name": "Beth",
-      "image": "/images/beth.jpg",
+      "image": "./images/beth.jpg",
       "clicked": false
     },
     {
       "id": 3,
       "name": "Rick",
-      "image": "/images/rick.png",
+      "image": "./images/rick.png",
       "clicked": false
     },
     {
       "id": 4,
       "name": "Morty",
-      "image": "/images/morty.png",
+      "image": "./images/morty.png",
       "clicked": false
     },
     {
       "id": 5,
       "name": "Summer",
-      "image": "/images/summer.jpg",
+      "image": "./images/summer.jpg",
       "clicked": false
     },
     {
       "id": 6,
       "name": "Squanchy",
-      "image": "/images/squanchy.jpg",
+      "image": "./images/squanchy.jpg",
       "clicked": false
     },
     {
       "id": 7,
       "name": "King Flippy Nips",
-      "image": "/images/flippynips.png",
+      "image": "./images/flippynips.png",
       "clicked": false
     },
     {
       "id": 8,
       "name": "Pickle Rick",
-      "image": "/images/picklerick.jpg",
+      "image": "./images/picklerick.jpg",
       "clicked": false
     },
     {
       "id": 9,
       "name": "Doofus Rick",
-      "image": "/images/doofus.jpg",
+      "image": "./images/doofus.jpg",
       "clicked": false
     },
     {
       "id": 10,
       "name": "Mr. Meeseeks",
-      "image": "/images/meeseeks.jpg",
+      "image": "./images/meeseeks.jpg",
       "clicked": false
     },
     {
       "id": 11,
       "name": "Mr. Poopybutthole",
-      "image": "/images/poopybutthole.jpg",
+      "image": "./images/poopybutthole.jpg",
       "clicked": false
     },
     {
       "id": 12,
       "name": "Blim Blam",
-      "image": "/images/blimblam.png",
+      "image": "./images/blimblam.png",
       "clicked": false
     }
   ]
