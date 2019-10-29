@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/jmmarketing/Clicky-Game/static/css/main.d640b9e1.chunk.css",
+    "main.js": "/jmmarketing/Clicky-Game/static/js/main.aed63f8c.chunk.js",
+    "main.js.map": "/jmmarketing/Clicky-Game/static/js/main.aed63f8c.chunk.js.map",
+    "runtime-main.js": "/jmmarketing/Clicky-Game/static/js/runtime-main.f5c4805f.js",
+    "runtime-main.js.map": "/jmmarketing/Clicky-Game/static/js/runtime-main.f5c4805f.js.map",
+    "static/js/2.bd3a9e65.chunk.js": "/jmmarketing/Clicky-Game/static/js/2.bd3a9e65.chunk.js",
+    "static/js/2.bd3a9e65.chunk.js.map": "/jmmarketing/Clicky-Game/static/js/2.bd3a9e65.chunk.js.map",
+    "index.html": "/jmmarketing/Clicky-Game/index.html",
+    "precache-manifest.e2ba0cca4c85acfeb8886b821a265c43.js": "/jmmarketing/Clicky-Game/precache-manifest.e2ba0cca4c85acfeb8886b821a265c43.js",
+    "service-worker.js": "/jmmarketing/Clicky-Game/service-worker.js",
+    "static/css/main.d640b9e1.chunk.css.map": "/jmmarketing/Clicky-Game/static/css/main.d640b9e1.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5c4805f.js",
+    "static/js/2.bd3a9e65.chunk.js",
+    "static/css/main.d640b9e1.chunk.css",
+    "static/js/main.aed63f8c.chunk.js"
+  ]
+}
