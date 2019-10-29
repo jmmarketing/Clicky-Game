@@ -1,5 +1,5 @@
 div.wrapper{
-    background: linear-gradient(0deg,rgba(126, 124, 125, 0.3),rgba(37, 37, 37, 0.671)), url("./images/background.jpg") no-repeat center bottom fixed;
+    background: linear-gradient(0deg,rgba(126, 124, 125, 0.3),rgba(37, 37, 37, 0.671)), url(../../images/background.jpg) no-repeat center bottom fixed;
     background-size: cover;
     height: 100vh;
 }
