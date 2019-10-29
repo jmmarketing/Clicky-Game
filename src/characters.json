@@ -2,73 +2,73 @@
     {
       "id": 1,
       "name": "Jerry",
-      "image": "./images/jerry.jpg",
+      "image": "https://i.ibb.co/Y7Wb83d/jerry.jpg",
       "clicked": false
     },
     {
       "id": 2,
       "name": "Beth",
-      "image": "./images/beth.jpg",
+      "image": "https://i.ibb.co/wRmGzN6/beth.jpg" ,
       "clicked": false
     },
     {
       "id": 3,
       "name": "Rick",
-      "image": "./images/rick.png",
+      "image": "https://i.ibb.co/HYHm600/rick.png",
       "clicked": false
     },
     {
       "id": 4,
       "name": "Morty",
-      "image": "./images/morty.png",
+      "image": "https://i.ibb.co/Xk1RwyW/morty.png" ,
       "clicked": false
     },
     {
       "id": 5,
       "name": "Summer",
-      "image": "./images/summer.jpg",
+      "image": "https://i.ibb.co/tCLLnX0/summer.jpg",
       "clicked": false
     },
     {
       "id": 6,
       "name": "Squanchy",
-      "image": "./images/squanchy.jpg",
+      "image": "https://i.ibb.co/qpSJNs8/squanchy.jpg",
       "clicked": false
     },
     {
       "id": 7,
       "name": "King Flippy Nips",
-      "image": "./images/flippynips.png",
+      "image": "https://i.ibb.co/N9Lb1w5/flippynips.png",
       "clicked": false
     },
     {
       "id": 8,
       "name": "Pickle Rick",
-      "image": "./images/picklerick.jpg",
+      "image": "https://i.ibb.co/pnTx0yp/picklerick.jpg",
       "clicked": false
     },
     {
       "id": 9,
       "name": "Doofus Rick",
-      "image": "./images/doofus.jpg",
+      "image": "https://i.ibb.co/Vg2LFQ6/doofus.jpg" ,
       "clicked": false
     },
     {
       "id": 10,
       "name": "Mr. Meeseeks",
-      "image": "./images/meeseeks.jpg",
+      "image": "https://i.ibb.co/kc1sFY8/meeseeks.jpg",
       "clicked": false
     },
     {
       "id": 11,
       "name": "Mr. Poopybutthole",
-      "image": "./images/poopybutthole.jpg",
+      "image": "https://i.ibb.co/KKjQB9f/poopybutthole.jpg",
       "clicked": false
     },
     {
       "id": 12,
       "name": "Blim Blam",
-      "image": "./images/blimblam.png",
+      "image": "https://i.ibb.co/n7TxC6D/blimblam.png" ,
       "clicked": false
     }
   ]
