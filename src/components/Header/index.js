@@ -6,7 +6,7 @@ function Header(props) {
 
     return (
 
-        <nav className="navbar navbar-light bg-light">
+        <nav className="navbar navbar-light">
             <a href="/" className="navbar-brand">Rick & Morty Clicky Game</a>
             <div className="justify-content-center">Don't Click the Same Pic Twice!</div>
             <form className="form-inline">
