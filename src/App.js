@@ -9,16 +9,29 @@ import characters from "./characters.json"
 
 class App extends Component {
 
+  state = {
+    characters,
+    score: 0,
+    highScore:0
+  }
 
+clickCount = id => {}
 
   render() {
     return (
 
       <Wrapper>
-        <Header />
-        <Game />
-        <GameCard />
-
+        <Header score={this.state.score} highScore={this.state.highScore}/>
+        <Game>
+        {this.state.characters.map(character => (
+        <GameCard 
+          clickCount={this.clickCount}
+          id={character.id}
+          key={character.name}
+          image={character.image}
+        />
+        ))}
+        </Game>
       </Wrapper>
 
     );

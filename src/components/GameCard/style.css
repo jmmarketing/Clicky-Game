@@ -1,0 +1,9 @@
+.card img{
+    height: 200px;
+    width: 300px;
+    cursor: pointer;
+}
+
+.card img:hover{
+    box-shadow: 2px 2px 4px #000000;;
+}
